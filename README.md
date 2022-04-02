@@ -1,0 +1,2 @@
+# Role assume example
+
